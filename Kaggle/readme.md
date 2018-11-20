@@ -8,7 +8,7 @@ In this report we suggest a data science methodology aiming at predicting the fo
 This project was done initially on Databricks using PYSPAR.ML package .
 
 Here the link for the html report of the project on databricks :
-https://github.com/kasamoh/Data-analysis/blob/master/Kaggle/Databricks/TP_Kaggle_Databricks.html
+http://htmlpreview.github.io/?https://github.com/kasamoh/Data-analysis/blob/master/Kaggle/Databricks/TP_Kaggle_Databricks.html
 
 And this is a link for the dbc file that you can import to databricks in order to execute the code :
 https://github.com/kasamoh/Data-analysis/blob/master/Kaggle/Databricks/TP_Kaggle_Databricks.dbc
