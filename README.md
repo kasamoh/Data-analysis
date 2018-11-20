@@ -1,2 +1,2 @@
 # Data-analysis
-Exploratory analysis woth python
+Exploratory analysis with python
